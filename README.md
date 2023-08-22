@@ -1,4 +1,4 @@
-<
+
 
 
 
@@ -8,8 +8,4 @@
 2. Activate the environment with `source env/bin/activate`
 3. Install dependencies with `pip install django`
 4. Run the server with `python manage.py runserver`
-
-<div align="center">
-
-<i>Other places you can find us:</i><br>
 
